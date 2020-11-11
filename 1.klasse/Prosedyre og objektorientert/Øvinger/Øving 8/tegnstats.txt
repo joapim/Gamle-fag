@@ -1,0 +1,15 @@
+Lengste ord: hunter.
+Antall ord: 14
+Linjer: 2
+
+he:1
+a:3
+hunter.:1
+man:1
+named:1
+once:1
+peter:1
+there:1
+time:1
+upon:1
+was:2
