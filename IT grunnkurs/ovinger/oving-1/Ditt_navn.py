@@ -1,0 +1,5 @@
+navn = input('Hva er navnet ditt? ')
+print('Hei',navn,)
+alder = int(input('Hvor gammel er du? '))
+prog = int(input('Hvor gammel var du når du startet å programmere? '))
+print('Da har du programmert i',alder - prog,'år')
